@@ -1,12 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 html {
-  background: #FF0066;
-  background: #FF0066 -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #6c7989), color-stop(100%, #FF0066)) fixed;
-  background: #FF0066 -webkit-linear-gradient(#6c7989, #FF0066) fixed;
-  background: #FF0066 -moz-linear-gradient(#6c7989, #FF0066) fixed;
-  background: #FF0066 -o-linear-gradient(#6c7989, #FF0066) fixed;
-  background: #FF0066 -ms-linear-gradient(#6c7989, #FF0066) fixed;
-  background: #FF0066 linear-gradient(#6c7989, #FF0066) fixed;
+  background: #6699FF;
+  background: #6699FF -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #00CC99), color-stop(100%, #6699FF)) fixed;
+  background: #6699FF -webkit-linear-gradient(#00CC99, #6699FF) fixed;
+  background: #6699FF -moz-linear-gradient(#00CC99, #6699FF) fixed;
+  background: #6699FF -o-linear-gradient(#00CC99, #6699FF) fixed;
+  background: #6699FF -ms-linear-gradient(#00CC99, #6699FF) fixed;
+  background: #6699FF linear-gradient(#00CC99, #6699FF) fixed;
 }
 
 body {
